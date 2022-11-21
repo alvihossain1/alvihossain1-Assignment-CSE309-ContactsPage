@@ -1,0 +1,7 @@
+#admin email and passoword is:
+
+email: admin@yahoo.com
+password: admin
+
+
+
